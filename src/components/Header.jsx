@@ -16,6 +16,7 @@ export default function Header() {
     userProgressCtx.showCart();
   } 
 
+  
   return (
     <header id="main-header">
       <div id="title">
